@@ -75,3 +75,8 @@
 ---
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigh0st&hide_border=true&layout=compact" align="center" /></div>  
 
+___
+
+<div align="center"><img src="https://raw.githubusercontent.com/NiGh0st/NiGh0st/output/snake.svg" alt="Snake animation" /></div>
+
+###
