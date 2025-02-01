@@ -79,4 +79,3 @@ ___
 
 <div align="center"><img src="https://raw.githubusercontent.com/NiGh0st/NiGh0st/output/snake.svg" alt="Snake animation" /></div>
 
-###
