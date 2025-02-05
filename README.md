@@ -1,4 +1,7 @@
-<h1 align="center"> Junior Full Stack Developer ✍🏾</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=435&lines=Junior+Full+Stack+Developer+%E2%9C%8D%EF%B8%8F;D%C3%A9veloppeur+Full+Stack+Junior+%E2%9C%8D%EF%B8%8F" align="center" />
+</p>  
+
 
 
 <div align="center">
@@ -71,17 +74,8 @@
 <a href="https://www.sketchup.com"><img alt="Sketch Up" src="https://img.shields.io/badge/SketchUp-%23005F9E.svg?style=for-the-badge&logo=sketchup&logoColor=white"></a>
 <a href="https://inkscape.org"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-%23000000.svg?style=for-the-badge&logo=inkscape&logoColor=white"></a>
 </div>
+  <br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigh0st&hide_border=true&layout=compact" align="center" /></p>  
 
----
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigh0st&hide_border=true&layout=compact" align="center" /></div>  
-
-___
-
-<div align="center"><img src="https://raw.githubusercontent.com/NiGh0st/NiGh0st/output/snake.svg" alt="Snake animation" /></div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NiGh0st/NiGh0st/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NiGh0st/NiGh0st/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NiGh0st/NiGh0st/output/github-contribution-grid-snake.svg">
-</picture>
-
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=nigh0st&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Snake animation" /></p>
