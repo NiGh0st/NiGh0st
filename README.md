@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&letterSpacing=0.2rem&duration=6000&pause=1000&color=A35364&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%E2%9C%8D%EF%B8%8F;D%C3%A9veloppeur+Full+Stack+%E2%9C%8D%EF%B8%8F](https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=689C41&width=435&lines=D%C3%A9veloppeur+Web+Full+Stack;Ing%C3%A9nieur+DevOps;Software+Engineer+;DevOps+Engineer" align="center" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&pause=1000&color=689C41&center=true&vCenter=true&random=true&width=435&lines=D%C3%A9veloppeur+Web+Full+Stack;Ing%C3%A9nieur+DevOps;Software+Engineer+;DevOps+Engineer" align="center" />
 </p>  
 
 
